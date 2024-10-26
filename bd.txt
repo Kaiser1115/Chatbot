@@ -1,0 +1,12 @@
+Cliente: Olá
+chatbot: Olá!
+Cliente: Tbm?
+chatbot: tbm sim, e com vc?
+Cliente: Estou bem tb
+chatbot: Qbom
+Cliente: Vc gosta de animes?
+chatbot: gosto sim e vc?
+Cliente: Gosto tb
+Cliente: Qual é o seu favorito?
+chatbot: O meu é Dragon Ball e o seu?
+Cliente: Blue Lock
